@@ -1,8 +1,9 @@
 """
 Code Author: Prakhar Swarnkar
+Reference src: pandas documentation
 
 This script is designed to load datasets from various file formats such as CSV, Excel (XLSX), and JSON.
-It utilizes the pandas library to load the data and supports basic operations like displaying and exploring the dataset.
+It utilizes the pandas library to load the data and supports basic operations like displaying the DataFrame and exploring the dataset.
 If an unsupported file format is given, it raises an error.
 """
 

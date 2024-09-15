@@ -1,5 +1,6 @@
 """
 Code Author: Prakhar
+Reference src: polars documentation
 
 This script is designed to load datasets from different file formats like CSV, Excel (XLSX), and JSON using Polars library.
 It handles loading of the data and performs basic exploration tasks. It raises an error if the file format is unsupported.
